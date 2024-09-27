@@ -5,6 +5,14 @@ html,body{
   width: 100%;
 }
 
+div.rectangle-container{
+  font-family: Poppins;
+}
+
+div.rectangle-parent{
+  font-family: Poppins;
+}
+
 .logo-icon {
   position: absolute;
   top: 149px;
